@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on Data Science and Machine Learning<br>I'm also very much interested in build SaaS platform<br>I'm open to work<br><br>
 
 
@@ -13,6 +13,4 @@ I'm currently working on Data Science and Machine Learning<br>I'm also very much
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-cse&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gautham-cse&icon=10&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=gautham-cse&icon=10&color=4)](https://visitcount.itsvg.in) -->
